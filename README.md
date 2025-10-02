@@ -2,7 +2,7 @@
 
 Simple script that draws a path from point A to point B using map image and recognizing different colors as terrain types with different cost of movement. 
 Takes into account cost of "swapping zone" from land to ocean and back (need to tweak weights)
-Has downscaling parameter to speed up pathfinding
+Has downscaling parameter to speed up search.
 
 TODO: add some sorta user friendly ui or command prompt
 
