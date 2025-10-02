@@ -1,7 +1,8 @@
 # bitcraft-map-pathfinder
 
-Simple script that draws a path from point A to point B using map image and recognizing different colors as terrain 
-takes into account cost of "swapping zone" from land to ocean and back (need to tweak weights)
+Simple script that draws a path from point A to point B using map image and recognizing different colors as terrain types with different cost of movement. 
+Takes into account cost of "swapping zone" from land to ocean and back (need to tweak weights)
+Has downscaling parameter to speed up pathfinding
 
 TODO: add some sorta user friendly ui or command prompt
 
