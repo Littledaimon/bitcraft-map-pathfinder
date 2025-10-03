@@ -11,3 +11,5 @@ TODO: encode all biomes with weights
 TODO: choose specifict vehicles to use
 
 TODO: write path stats to file to accompany the image (or draw them on the image?)
+
+TODO: test if there is better results by getting terrain data from the game instead of just an image of the map
